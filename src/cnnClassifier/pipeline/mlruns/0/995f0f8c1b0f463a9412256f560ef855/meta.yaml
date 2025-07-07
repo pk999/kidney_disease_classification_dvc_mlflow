@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nikhi/OneDrive/Desktop/kidney_disease_classification_dvc_mlflow/src/cnnClassifier/pipeline/mlruns/0/995f0f8c1b0f463a9412256f560ef855/artifacts
+end_time: 1751338522429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 995f0f8c1b0f463a9412256f560ef855
+run_name: placid-wasp-454
+run_uuid: 995f0f8c1b0f463a9412256f560ef855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751338502528
+status: 4
+tags: []
+user_id: Praneeth

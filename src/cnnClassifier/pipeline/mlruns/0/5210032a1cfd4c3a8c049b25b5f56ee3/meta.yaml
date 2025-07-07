@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nikhi/OneDrive/Desktop/kidney_disease_classification_dvc_mlflow/src/cnnClassifier/pipeline/mlruns/0/5210032a1cfd4c3a8c049b25b5f56ee3/artifacts
+end_time: 1751338720374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5210032a1cfd4c3a8c049b25b5f56ee3
+run_name: thoughtful-colt-748
+run_uuid: 5210032a1cfd4c3a8c049b25b5f56ee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751338709100
+status: 4
+tags: []
+user_id: Praneeth
